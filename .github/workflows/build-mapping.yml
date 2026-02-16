@@ -1,0 +1,30 @@
+name: Build NOC mappings
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - name: Build mappings
+        run: npm run build:mappings
+
+      - name: Commit mappings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scripts/name_to_noc.json scripts/noc_to_iso2.json
+          git commit -m "Build NOC mappings" || echo "No changes"
+          git push
