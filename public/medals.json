@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17-Feb-2026 03:28 PM",
+  "updatedAt": "17-Feb-2026 04:27 PM",
   "source": "Wikipedia",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_Winter_Olympics_medal_table",
   "games": "Milano Cortina 2026",
@@ -52,13 +52,13 @@
     },
     {
       "rank": 5,
-      "noc": "AUT",
-      "name": "Austria",
+      "noc": "GER",
+      "name": "Germany",
       "gold": 5,
       "silver": 8,
-      "bronze": 4,
-      "total": 17,
-      "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/at.png",
+      "bronze": 7,
+      "total": 20,
+      "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/de.png",
       "placeholder": false
     }
   ]
