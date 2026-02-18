@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18-Feb-2026 09:12 AM",
+  "updatedAt": "18-Feb-2026 10:08 AM",
   "source": "Wikipedia",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_Winter_Olympics_medal_table",
   "games": "Milano Cortina 2026",
@@ -12,8 +12,8 @@
       "name": "Norway",
       "gold": 15,
       "silver": 8,
-      "bronze": 9,
-      "total": 32,
+      "bronze": 10,
+      "total": 33,
       "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/no.png",
       "placeholder": false
     },
@@ -41,13 +41,13 @@
     },
     {
       "rank": 4,
-      "noc": "NED",
-      "name": "Netherlands",
+      "noc": "FRA",
+      "name": "France",
       "gold": 6,
-      "silver": 6,
-      "bronze": 1,
-      "total": 13,
-      "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/nl.png",
+      "silver": 7,
+      "bronze": 4,
+      "total": 17,
+      "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/fr.png",
       "placeholder": false
     },
     {
@@ -55,9 +55,9 @@
       "noc": "SWE",
       "name": "Sweden",
       "gold": 6,
-      "silver": 5,
+      "silver": 6,
       "bronze": 3,
-      "total": 14,
+      "total": 15,
       "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/se.png",
       "placeholder": false
     }
