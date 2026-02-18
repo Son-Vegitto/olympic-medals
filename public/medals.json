@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18-Feb-2026 06:03 AM",
+  "updatedAt": "18-Feb-2026 06:52 AM",
   "source": "Wikipedia",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_Winter_Olympics_medal_table",
   "games": "Milano Cortina 2026",
@@ -10,10 +10,10 @@
       "rank": 1,
       "noc": "NOR",
       "name": "Norway",
-      "gold": 14,
+      "gold": 15,
       "silver": 8,
       "bronze": 9,
-      "total": 31,
+      "total": 32,
       "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/no.png",
       "placeholder": false
     },
@@ -23,8 +23,8 @@
       "name": "Italy",
       "gold": 9,
       "silver": 4,
-      "bronze": 11,
-      "total": 24,
+      "bronze": 12,
+      "total": 25,
       "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/it.png",
       "placeholder": false
     },
@@ -33,9 +33,9 @@
       "noc": "USA",
       "name": "United States",
       "gold": 6,
-      "silver": 10,
+      "silver": 11,
       "bronze": 5,
-      "total": 21,
+      "total": 22,
       "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/us.png",
       "placeholder": false
     },
@@ -52,13 +52,13 @@
     },
     {
       "rank": 5,
-      "noc": "GER",
-      "name": "Germany",
-      "gold": 5,
-      "silver": 8,
-      "bronze": 7,
-      "total": 20,
-      "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/de.png",
+      "noc": "SWE",
+      "name": "Sweden",
+      "gold": 6,
+      "silver": 5,
+      "bronze": 2,
+      "total": 13,
+      "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/se.png",
       "placeholder": false
     }
   ]
