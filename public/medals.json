@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22-Feb-2026 10:37 AM",
+  "updatedAt": "22-Feb-2026 10:58 AM",
   "source": "Wikipedia",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_Winter_Olympics_medal_table",
   "games": "Milano Cortina 2026",
@@ -21,10 +21,10 @@
       "rank": 2,
       "noc": "USA",
       "name": "United States",
-      "gold": 11,
+      "gold": 12,
       "silver": 12,
       "bronze": 9,
-      "total": 32,
+      "total": 33,
       "flag": "https://raw.githubusercontent.com/Son-Vegitto/olympic-medals/main/flags/us.png",
       "placeholder": false
     },
